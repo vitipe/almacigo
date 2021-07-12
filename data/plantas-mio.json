@@ -1,5 +1,5 @@
 
-{ "plantas" = [
+{ "plantas" : [
   { "name": "Tomate", "full": true, "parcial": false, "diasACosecha": 75, "diametro": 6, 
       varieties: ["Platense", "Pera", "Carrascal", "Corazón de buey"], 
       reminders: [
