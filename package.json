@@ -1,0 +1,19 @@
+{
+  "name": "almacigo",
+  "version": "1.0.0",
+  "description": "Repositorio proyecto para sitio web con información relacionada a cultivos y huerto en general para la región del SO bonaerense",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitipe/almacigo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitipe/almacigo/issues"
+  },
+  "homepage": "https://github.com/vitipe/almacigo#readme"
+}
