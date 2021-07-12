@@ -16,7 +16,10 @@
     "url": "https://github.com/vitipe/almacigo/issues"
   },
   "homepage": "https://github.com/vitipe/almacigo#readme",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "cypress": "^7.7.0"
+  },
   "devDependencies": {
     "eslint": "^7.30.0",
     "eslint-config-airbnb-base": "^14.2.1",
